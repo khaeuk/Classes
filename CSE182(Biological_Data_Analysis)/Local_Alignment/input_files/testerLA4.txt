@@ -1,0 +1,5 @@
+>seq2a
+GCCCAGTCTATGT
+
+>seq2b
+GCCGCCGTCGTTT
